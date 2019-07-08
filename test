@@ -7,7 +7,7 @@
 	<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE" />
 	<META HTTP-EQUIV="Expires" CONTENT="-1" />
 
-	<title>Realm of the Mad God</title>
+	<title>Supreme Realms</title>
 	<script language="JavaScript" type="text/javascript">
 		var g_cacheBuster = "__rotmg_cb=1562249722";
 	</script>
@@ -64,21 +64,6 @@
             text-decoration: none;
             font-weight: normal;
             font-style: normal;
-		}
-
-		.KBPAY_IframeDialogCurtain {
-			position: absolute;
-			width: 2000px;
-			top:0;
-			left:0;
-			background-color:#000;
-			-moz-opacity:0.3;
-			opacity:.30;
-			filter:alpha(opacity=30);
-			-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
-		}
-		.KBPAY_IframeDialog {
-			position: absolute;
 		}
 
 		.media {
@@ -294,7 +279,7 @@
 <body>
 	<div class="navigation">
 		<ul>
-			<li><a id="playButton" class="active" href="#gameplay"><img src="images/playButton.png" /></a></li>
+			<li><a id="playButton" class="active" href="https://supremerealms.github.io"><img src="images/playButton.png" /></a></li>
 			<li><a id="downloadButton" href="#download"><img src="images/downloadButton.png" /></a></li>
 		</ul>
 	</div>	
@@ -331,11 +316,11 @@
 					"width", "800",
 					"height", "600",
 					"align", "middle",
-					"id", "AGCLoader1562249722",
+					"id", "autismo",
 					"class", "game_swf",
 					"quality", "high",
 					"bgcolor", "#000000",
-					"name", "AGCLoader1562249722",
+					"name", "autismo",
 					"allowScriptAccess","sameDomain",
 					"type", "application/x-shockwave-flash",
 					"pluginspage", "https://www.adobe.com/go/getflashplayer"
@@ -344,16 +329,16 @@
 			// if we've detected an acceptable version
 			// embed the Flash Content SWF when all tests are passed
 			AC_FL_RunContent(
-					"src", "AGCLoader1562249722",
+					"src", "autismo",
 					"FlashVars", rotmg.UrlLib.getProtocolString()+'&version_timestamp=1562249722',
 					"width", "800",
 					"height", "600",
 					"align", "middle",
-					"id", "AGCLoader1562249722",
+					"id", "autismo",
 					"class", "game_swf",
 					"quality", "high",
 					"bgcolor", "#000000",
-					"name", "AGCLoader1562249722",
+					"name", "autismo",
 					"allowScriptAccess","sameDomain",
 					"type", "application/x-shockwave-flash",
 					"wmode", "direct",
@@ -368,15 +353,15 @@
 	</script>
 	<noscript>
 		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
-				id="AGCLoader1562249722" width="640" height="640" class="game_swf"
+				id="autismo" width="640" height="640" class="game_swf"
 				codebase="https://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
-			<param name="movie" value="AGCLoader1562249722.swf" />
+			<param name="movie" value="autismo.swf" />
 			<param name="quality" value="high" />
 			<param name="bgcolor" value="#000000" />
 			<param name="wmode" value="direct" />
 			<param name="allowScriptAccess" value="sameDomain" />
-			<embed src="AGCLoader1562249722.swf" quality="high" bgcolor="#000000"
-				width="800" height="600" name="AGCLoader1562249722" align="middle"
+			<embed src="autismo.swf" quality="high" bgcolor="#000000"
+				width="800" height="600" name="autismo" align="middle"
 				   play="true"
 				   loop="false"
 				   quality="high"
